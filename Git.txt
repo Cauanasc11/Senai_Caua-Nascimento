@@ -1,1 +1,13 @@
 aula git
+
+• git init: Inicializa um novo repositório Git na pasta atual, criando uma pasta oculta .git para rastrear as mudanças.
+
+• git status: Verifica o estado atual do repositório, mostrando quais arquivos foram modificados, adicionados ou que ainda não estão sendo rastreados pelo Git.
+
+• git add "nome_do_arquivo"."extensao": Prepara um arquivo específico (joga para a staging area), informando ao Git que você deseja incluir as alterações desse arquivo no próximo salvamento (commit).
+
+• git add .: Prepara todos os arquivos modificados e novos da pasta atual de uma só vez (é o ponto que substitui o nome de um arquivo específico).
+
+git commit -m ""
+
+Continuação da aula de git
